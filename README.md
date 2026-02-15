@@ -19,12 +19,6 @@ The goal of this lab was to detect faces in a group photo and use unsupervised l
 
 ![Clustering Results](cluster_plot.png)
 
-
-## Files Included
-* `Lab 5-Spring 2026.ipynb`: The Jupyter Notebook with all code, outputs, and report answers.
-* `Plaksha_Faculty.jpg`: The original group photo.
-* `Dr_Shashi_Tharoor.jpg`: The template image for testing.
-
 ## Libraries Used
 * `cv2` (OpenCV)
 * `sklearn` (Scikit-learn)
